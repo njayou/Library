@@ -1,0 +1,16 @@
+body{
+ padding-left:100px;
+ padding-right:100px;
+ /*background-color:darkcyan;*/
+}
+
+div{
+	border: 2px 5px 5px #123542;
+	/*background-color:gray;*/
+	
+}
+center > p{
+	
+	color:blue;
+}
+
