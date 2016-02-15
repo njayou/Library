@@ -1,0 +1,50 @@
+body{
+ padding-left:100px;
+ padding-right:100px;
+ background-color:gray;
+}
+
+/*div{
+	border: 2px 5px 5px #123542;
+	background-color:gray;
+
+	
+}*/
+center > p{
+	
+	color:blue;
+}
+span {
+	
+	color:yellow;
+	
+}
+
+#par{
+	display:inline;
+	float: right;
+}
+
+img{
+	
+	align=top;
+}
+
+#bar {
+   
+   width: 700px;
+   display: inline;
+   border-radius: 10px;
+   border-style: solid;
+   background-color: gray;
+
+}
+.lin{
+
+	display: inline;
+	margin-right: 40px;
+   text-decoration: none;
+}
+#home{
+	background-color: rgb(25,254,200);
+}
